@@ -1,0 +1,11 @@
+101;10.06.2020;A101;Ath->Skg;1;3;Ju 287;Aegean;Greek;
+102;10.02.2020;Naoqo;Beg->Aso;2.5;5;Asaj;Olympic;English;
+103;05.03.2019;Qeows;Beg->Ap;25;0;Qew 201;Lufthansa;Japanese;
+105;02.02.2009;Saisks;Apo->Aqp;45;2;Aqqw 20;Lufthansa;Argentinian;
+106;02.02.2013;Apspqo;Ath->Beg;20.45;3;Asja 20;KLM;French;
+107;03.01.2010;Asaop Aowow;Apo->Apq;259;3;Asao 101;KLM;Swedish;
+108;19.12.2004;Asapoo Aofvmsd;Eth->Apo;176.28;3;Cxasa 201;Qatar Airways;Palestinian;
+109;12.11.2020;Saosos Volils;Asa->Woq;256.21;1;Siwpq 301;KLM;Albanian;
+110;02.12.2008;Falaj Oqpsam;Oth->Api;53.28;0;Ju 287;Lufthansa;German;
+104;10.01.2002;Asp Oreegof;Apt->Apq;258.12;3;Saq 89;Lufthansa;Armenian;
+115;02.12.2010;Qwqpq Qsldk;Ath->Per;105.32;3;Ju 286;Aragoutan;Greek;
